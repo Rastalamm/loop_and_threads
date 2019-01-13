@@ -1,0 +1,14 @@
+{
+  "name": "math_optimization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "printDevisibleNums.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Judah Lamm",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
